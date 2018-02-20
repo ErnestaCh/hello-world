@@ -1,4 +1,5 @@
 -- File: xor.vhd
+--Compiled by: Ernesta Choroskina EIF-16/1
 library ieee;
 use ieee.std_logic_1164.all;
 
